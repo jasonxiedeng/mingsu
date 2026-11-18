@@ -1,0 +1,14 @@
+# 依赖
+node_modules/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Office 临时/锁文件
+~$*
+*.tmp
+
+# 临时截图与草稿
+.screenshots/
